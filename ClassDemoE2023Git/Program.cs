@@ -3,5 +3,6 @@
 
 
 Console.WriteLine("Jeg er master");
+Console.WriteLine("Peter was here");
 
 
