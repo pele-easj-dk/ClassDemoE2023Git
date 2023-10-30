@@ -2,6 +2,6 @@
 
 
 
-Console.WriteLine("Jeg er master");
+Console.WriteLine("Jeg er Peter");
 
 
