@@ -4,5 +4,6 @@
 
 Console.WriteLine("Jeg er master");
 Console.WriteLine("Peter was here");
+Console.WriteLine("Jeg er Peter");
 
 
